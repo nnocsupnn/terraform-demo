@@ -1,0 +1,3 @@
+bucket = "terraform-backend-nno"
+key    = "04-be/dev/state.tfstate"
+region = "ap-southeast-1"
